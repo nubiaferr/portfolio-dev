@@ -23,7 +23,7 @@
 
 
     nav#navbar{
-     width: 90%;
+     width: 100%;
         padding-top: 50%;
         padding-bottom: 50%;
         background-color: var(--black);
