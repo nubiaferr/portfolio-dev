@@ -103,7 +103,6 @@ h2{
 .welcome-img img{
     width: 95%;
     height: auto;
-    transition: all 300ms ease-in-out;
 }
 
 .welcome-img img:hover{
