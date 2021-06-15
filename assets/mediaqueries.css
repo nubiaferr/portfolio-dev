@@ -26,6 +26,7 @@
      width: 100%;
         padding-top: 50%;
         padding-bottom: 50%;
+        margin: 0 auto;
         background-color: var(--black);
         height: 100vh;
         position: unset;
